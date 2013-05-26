@@ -1,0 +1,9 @@
+C:\Documents and Settings\Bobby\bin_workspace\C-Sharp-Project\Fun with If Else statements by bin\Fun with If Else statements by bin\bin\Debug\Fun with If Else statements by bin.exe
+C:\Documents and Settings\Bobby\bin_workspace\C-Sharp-Project\Fun with If Else statements by bin\Fun with If Else statements by bin\bin\Debug\Fun with If Else statements by bin.pdb
+C:\Documents and Settings\Bobby\bin_workspace\C-Sharp-Project\Fun with If Else statements by bin\Fun with If Else statements by bin\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Bobby\bin_workspace\C-Sharp-Project\Fun with If Else statements by bin\Fun with If Else statements by bin\obj\x86\Debug\Fun_with_If_Else_statements_by_bin.Form1.resources
+C:\Documents and Settings\Bobby\bin_workspace\C-Sharp-Project\Fun with If Else statements by bin\Fun with If Else statements by bin\obj\x86\Debug\Fun_with_If_Else_statements_by_bin.Properties.Resources.resources
+C:\Documents and Settings\Bobby\bin_workspace\C-Sharp-Project\Fun with If Else statements by bin\Fun with If Else statements by bin\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Bobby\bin_workspace\C-Sharp-Project\Fun with If Else statements by bin\Fun with If Else statements by bin\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Bobby\bin_workspace\C-Sharp-Project\Fun with If Else statements by bin\Fun with If Else statements by bin\obj\x86\Debug\Fun with If Else statements by bin.exe
+C:\Documents and Settings\Bobby\bin_workspace\C-Sharp-Project\Fun with If Else statements by bin\Fun with If Else statements by bin\obj\x86\Debug\Fun with If Else statements by bin.pdb
