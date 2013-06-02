@@ -1,0 +1,9 @@
+C:\Documents and Settings\Bobby\bin_workspace\C-Sharp-Project\3_Talk\3_Talk\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Bobby\bin_workspace\C-Sharp-Project\3_Talk\3_Talk\obj\x86\Debug\_3_Talk.Form1.resources
+C:\Documents and Settings\Bobby\bin_workspace\C-Sharp-Project\3_Talk\3_Talk\obj\x86\Debug\_3_Talk.Properties.Resources.resources
+C:\Documents and Settings\Bobby\bin_workspace\C-Sharp-Project\3_Talk\3_Talk\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Bobby\bin_workspace\C-Sharp-Project\3_Talk\3_Talk\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Bobby\bin_workspace\C-Sharp-Project\3_Talk\3_Talk\bin\Debug\3_Talk.exe
+C:\Documents and Settings\Bobby\bin_workspace\C-Sharp-Project\3_Talk\3_Talk\bin\Debug\3_Talk.pdb
+C:\Documents and Settings\Bobby\bin_workspace\C-Sharp-Project\3_Talk\3_Talk\obj\x86\Debug\3_Talk.exe
+C:\Documents and Settings\Bobby\bin_workspace\C-Sharp-Project\3_Talk\3_Talk\obj\x86\Debug\3_Talk.pdb
