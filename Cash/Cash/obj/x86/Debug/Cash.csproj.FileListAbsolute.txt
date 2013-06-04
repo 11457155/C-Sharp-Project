@@ -1,0 +1,9 @@
+C:\Documents and Settings\Bobby\bin_workspace\C-Sharp-Project\Cash\Cash\bin\Debug\Cash.exe
+C:\Documents and Settings\Bobby\bin_workspace\C-Sharp-Project\Cash\Cash\bin\Debug\Cash.pdb
+C:\Documents and Settings\Bobby\bin_workspace\C-Sharp-Project\Cash\Cash\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Bobby\bin_workspace\C-Sharp-Project\Cash\Cash\obj\x86\Debug\Cash.Properties.Resources.resources
+C:\Documents and Settings\Bobby\bin_workspace\C-Sharp-Project\Cash\Cash\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Bobby\bin_workspace\C-Sharp-Project\Cash\Cash\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Bobby\bin_workspace\C-Sharp-Project\Cash\Cash\obj\x86\Debug\Cash.exe
+C:\Documents and Settings\Bobby\bin_workspace\C-Sharp-Project\Cash\Cash\obj\x86\Debug\Cash.pdb
+C:\Documents and Settings\Bobby\bin_workspace\C-Sharp-Project\Cash\Cash\obj\x86\Debug\Cash.Form1.resources
