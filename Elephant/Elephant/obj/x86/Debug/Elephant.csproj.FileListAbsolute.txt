@@ -1,0 +1,9 @@
+C:\Documents and Settings\Bobby\bin_workspace\C-Sharp-Project\Elephant\Elephant\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Bobby\bin_workspace\C-Sharp-Project\Elephant\Elephant\obj\x86\Debug\Elephant.Form1.resources
+C:\Documents and Settings\Bobby\bin_workspace\C-Sharp-Project\Elephant\Elephant\obj\x86\Debug\Elephant.Properties.Resources.resources
+C:\Documents and Settings\Bobby\bin_workspace\C-Sharp-Project\Elephant\Elephant\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Bobby\bin_workspace\C-Sharp-Project\Elephant\Elephant\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Bobby\bin_workspace\C-Sharp-Project\Elephant\Elephant\bin\Debug\Elephant.exe
+C:\Documents and Settings\Bobby\bin_workspace\C-Sharp-Project\Elephant\Elephant\bin\Debug\Elephant.pdb
+C:\Documents and Settings\Bobby\bin_workspace\C-Sharp-Project\Elephant\Elephant\obj\x86\Debug\Elephant.exe
+C:\Documents and Settings\Bobby\bin_workspace\C-Sharp-Project\Elephant\Elephant\obj\x86\Debug\Elephant.pdb
