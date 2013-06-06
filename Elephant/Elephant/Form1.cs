@@ -39,5 +39,14 @@ namespace Elephant
             MessageBox.Show("Objects swapped");
             lucinda = temp;
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            lioyd = lucinda;
+            lioyd.earSize = 10000;
+            MessageBox.Show(lioyd.whoAmI());
+            lucinda.earSize = 99999;
+            MessageBox.Show(lioyd.whoAmI());
+        }
     }
 }
