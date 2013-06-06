@@ -1,0 +1,9 @@
+C:\Documents and Settings\Bobby\bin_workspace\C-Sharp-Project\MileageCalculator\MileageCalculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Bobby\bin_workspace\C-Sharp-Project\MileageCalculator\MileageCalculator\obj\x86\Debug\MileageCalculator.Form1.resources
+C:\Documents and Settings\Bobby\bin_workspace\C-Sharp-Project\MileageCalculator\MileageCalculator\obj\x86\Debug\MileageCalculator.Properties.Resources.resources
+C:\Documents and Settings\Bobby\bin_workspace\C-Sharp-Project\MileageCalculator\MileageCalculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Bobby\bin_workspace\C-Sharp-Project\MileageCalculator\MileageCalculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Bobby\bin_workspace\C-Sharp-Project\MileageCalculator\MileageCalculator\bin\Debug\MileageCalculator.exe
+C:\Documents and Settings\Bobby\bin_workspace\C-Sharp-Project\MileageCalculator\MileageCalculator\bin\Debug\MileageCalculator.pdb
+C:\Documents and Settings\Bobby\bin_workspace\C-Sharp-Project\MileageCalculator\MileageCalculator\obj\x86\Debug\MileageCalculator.exe
+C:\Documents and Settings\Bobby\bin_workspace\C-Sharp-Project\MileageCalculator\MileageCalculator\obj\x86\Debug\MileageCalculator.pdb
