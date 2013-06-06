@@ -22,6 +22,11 @@ namespace MileageCalculator
             InitializeComponent();
         }
 
+        public void getControlInput()
+        {
+            startingMileage = (int)numericUpDown1.Value;
+            endingMileage = (int)numericUpDown2.Value;
+        }
         private void button1_Click(object sender, EventArgs e)
         {
             if (numericUpDown1.Value > numericUpDown2.Value)
@@ -34,15 +39,21 @@ namespace MileageCalculator
             }
             else
             {
-                startingMileage = (int)numericUpDown1.Value;
-                endingMileage = (int)numericUpDown2.Value;
+                getControlInput();
                 reimburseRate = Convert.ToDouble(textBox1.Text);
 
-                milesTraveled = endingMileage -= startingMileage;
-                ownedMoney = milesTraveled *= reimburseRate;
+                milesTraveled = endingMileage - startingMileage;
+                ownedMoney = milesTraveled * reimburseRate;
 
                 label4.Text = "$" + ownedMoney;
             }
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            getControlInput();
+            milesTraveled = endingMileage - startingMileage;
+            MessageBox.Show("the actual miles are:" + milesTraveled);
         }
     }
 }
