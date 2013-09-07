@@ -1,0 +1,9 @@
+C:\Documents and Settings\Bobby\bin_workspace\C-Sharp-Project\TypingGames\TypingGames\bin\Debug\TypingGames.exe
+C:\Documents and Settings\Bobby\bin_workspace\C-Sharp-Project\TypingGames\TypingGames\bin\Debug\TypingGames.pdb
+C:\Documents and Settings\Bobby\bin_workspace\C-Sharp-Project\TypingGames\TypingGames\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Bobby\bin_workspace\C-Sharp-Project\TypingGames\TypingGames\obj\x86\Debug\TypingGames.Form1.resources
+C:\Documents and Settings\Bobby\bin_workspace\C-Sharp-Project\TypingGames\TypingGames\obj\x86\Debug\TypingGames.Properties.Resources.resources
+C:\Documents and Settings\Bobby\bin_workspace\C-Sharp-Project\TypingGames\TypingGames\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Bobby\bin_workspace\C-Sharp-Project\TypingGames\TypingGames\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Bobby\bin_workspace\C-Sharp-Project\TypingGames\TypingGames\obj\x86\Debug\TypingGames.exe
+C:\Documents and Settings\Bobby\bin_workspace\C-Sharp-Project\TypingGames\TypingGames\obj\x86\Debug\TypingGames.pdb
