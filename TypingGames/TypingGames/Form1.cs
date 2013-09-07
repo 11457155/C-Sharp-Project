@@ -107,7 +107,14 @@ namespace TypingGames
                     timer1.Interval -= 1;
                 }
 
-               DifficultyProgressBar.Value = 800 - timer1.Interval;
+                if (800 - timer1.Interval > 100)
+                {
+                    DifficultyProgressBar.Value = 100;
+                }
+                else
+                {
+                    DifficultyProgressBar.Value = 800 - timer1.Interval;
+                }
 
                 stats.update(true);
 
@@ -122,6 +129,11 @@ namespace TypingGames
             MissedLabel.Text = "Missed: " + stats.missed;
             TotalLabel.Text = "Total: " + stats.total;
             AccuracyLabel.Text = "Accuracy: " + stats.accuracy;
+        }
+
+        private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }
